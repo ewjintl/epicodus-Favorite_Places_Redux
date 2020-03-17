@@ -12,16 +12,26 @@ body {
 	padding: 0;
 	}
 
+	.card {
+		background-color: aqua;
+		margin-top : 24px;
+		color : #999;
+	}
+
 p { 
-	margin-top: 0; 
+	margin-top: 5px; 
 	text-align: justify;
   }
   
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
-	margin-bottom: 0; 
+	margin-bottom: 5px; 
 	color: #7D775C;
-  }
+	}
+	
+	ul {
+	margin : 4px 0 16px 18px;
+}
   
   
