@@ -1,3 +1,7 @@
+@media only screen 
+	 and (max-width : 1600px) 
+	 {
+
 html {
 	margin: 0;
 	padding: 0;
@@ -6,16 +10,21 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(https://splurgefrugal.com/wp-content/uploads/cherry-blossoms-wallpaper-3.jpg); 
+	color: rgb(38, 39, 37); 
+	background: #fff url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2F1524581487%2Fkauai-GOOGTREND0418.jpg&f=1&nofb=1); 
 	margin: 0; 
 	padding: 0;
+
 	}
 
 	.card {
-		background-color: aqua;
+		background: rgb(34,193,195);
+		background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+		opacity: 85%;
 		margin-top : 24px;
-		color : #999;
+		color:rgb(38, 39, 37); 
+		margin-right: auto;
+		margin-left: auto;
 	}
 
 p { 
@@ -32,6 +41,16 @@ h3 {
 	
 	ul {
 	margin : 4px 0 16px 18px;
+	}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
-  
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
   

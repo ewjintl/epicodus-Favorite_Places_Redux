@@ -1,0 +1,36 @@
+@media only screen 
+	 and (max-width : 1600px) 
+	 {
+
+body {
+  font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: rgb(38, 39, 37); 
+}
+
+p { 
+	margin-top: 5px; 
+	text-align: justify;
+  }
+  
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 5px; 
+	color: #7D775C;
+	}
+	
+	ul {
+	margin : 4px 0 16px 18px;
+	}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
