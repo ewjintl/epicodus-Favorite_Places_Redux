@@ -1,15 +1,17 @@
-/* html {
+html {
 	margin: 0;
 	padding: 0;
 	}
+
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
 	color: #555753; 
-	background: #fff url(https://splurgefrugal.com/wp-content/uploads/cherry-blossoms-wallpaper-3.jpg) no-repeat bottom right; 
+	background: #fff url(https://splurgefrugal.com/wp-content/uploads/cherry-blossoms-wallpaper-3.jpg); 
 	margin: 0; 
 	padding: 0;
 	}
+
 p { 
 	margin-top: 0; 
 	text-align: justify;
@@ -20,8 +22,6 @@ h3 {
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #7D775C;
-  } */
-  
-  body {
-    background-image: url(https://splurgefrugal.com/wp-content/uploads/cherry-blossoms-wallpaper-3.jpg);
   }
+  
+  
